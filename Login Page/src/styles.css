@@ -1,0 +1,127 @@
+.log {
+    position: absolute;
+    width: 367px;
+    height: 400px;
+    left: 950px;
+    top: 215px;
+  
+    background: #f0f0f0;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .App {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+  }
+  .sahi {
+    height: 1000px;
+    width: 800px;
+  }
+  .over {
+    width: 200px;
+    height: 200px;
+    position: absolute;
+    top: 300px;
+    left: 200px;
+    color: white;
+  }
+  .user {
+    position: absolute;
+    width: 280px;
+    height: 32px;
+    left: 44px;
+    top: 80px;
+    background: #ffffff;
+    box-shadow: 2px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 3px;
+  }
+  .name {
+    position: absolute;
+    width: 60px;
+    height: 20px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 14px;
+    top: 44px;
+    left: 46px;
+  
+    display: flex;
+    align-items: center;
+  
+    color: #000000;
+  }
+  #user1 {
+    top: 170px;
+  }
+  #name1 {
+    top: 135px;
+  }
+  #cap {
+    top: 250px;
+  }
+  #forgot {
+    display: inline;
+    color: blue;
+    left: 115px;
+    top: 220px;
+    width: 150px;
+    font-size: 15px;
+  }
+  .pro {
+    width: 120px;
+    height: 28px;
+    margin-left: 150px;
+    margin-top: 340px;
+    color: #ffffff;
+    text-align: center;
+    background: #02428c;
+    border-radius: 4px;
+  }
+  
+  #reg {
+    width: 300px;
+    margin-left: 50px;
+    margin-top: 330px;
+  }
+  #reg::after {
+    content: "Register Now";
+    color: blue;
+  }
+  .head {
+    position: absolute;
+    width: 490px;
+    height: 28px;
+    left: 890px;
+    top: 156px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 23px;
+    line-height: 21px;
+    display: flex;
+    align-items: center;
+  
+    color: #02428c;
+  }
+  #hea {
+    position: absolute;
+    width: 600px;
+    height: 91px;
+    top: 150px;
+    left: 118px;
+  
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 35px;
+    display: flex;
+    align-items: center;
+  
+    color: #ffffff;
+  }
+  
